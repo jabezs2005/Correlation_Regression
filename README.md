@@ -1,3 +1,6 @@
+## NAME: JABEZ S
+## REGISTER NUMBER:2122230040070
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -23,7 +26,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output :
+![image](https://github.com/jabezs2005/Correlation_Regression/assets/147473463/c87a1540-543f-41ba-9223-8c6dc9fb2cb1)
 
-# Result
-
-# Output 
+# Result:
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
